@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import {
-  Toolbar, 
+  Toolbar,
   NavLink
 } from 'rebass';
 
